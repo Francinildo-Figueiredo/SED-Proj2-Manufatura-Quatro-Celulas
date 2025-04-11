@@ -8,7 +8,7 @@ entrada e um depósito de saída. Os robôs são responsáveis por movem itens e
 os diversos depósitos conforme a figura abaixo. 
 
 <p align="center">
-  <img src="./imagens/celula.png" alt="Autômato de R1"/>
+  <img src="./img/celula.png" alt="Autômato de R1"/>
 </p>
 
 Na célula existem duas rotas de produção: 𝑖𝑖 e 𝑗𝑗. O robô 1 transporta itens entre o 
@@ -39,5 +39,13 @@ seu modelo não possui bloqueios.
 - *Prduçãox*: Pega o produto do depósito de entrada da máquina x e leva para o depósito de saída da máquina x;
 
 <p align="center">
-  <img src="./imagens/rede_de_petri.png" alt="Autômato de R1"/>
+  <img src="./img/rede_de_petri.png" alt="Autômato de R1"/>
+</p>
+
+<p align="center">
+  <img src="./img/parte1.png" alt="Autômato de R1"/>
+</p>
+
+<p align="center">
+  <img src="./img/parte2.png" alt="Autômato de R1"/>
 </p>
