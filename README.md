@@ -49,3 +49,5 @@ seu modelo não possui bloqueios.
 <p align="center">
   <img src="./img/parte2.png" alt="Autômato de R1"/>
 </p>
+
+Vídeo do Youtube com a explicação do projeto: (https://youtu.be/pPEMF_zXKCg)
