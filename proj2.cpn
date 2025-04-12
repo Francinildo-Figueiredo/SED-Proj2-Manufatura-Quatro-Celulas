@@ -722,12 +722,12 @@
                  h="60.000000"/>
         <token x="-10.000000"
                y="0.000000"/>
-        <marking x="0.000000"
+        <marking x="-1.000000"
                  y="0.000000"
                  hidden="false">
-          <snap snap_id="0"
-                anchor.horizontal="0"
-                anchor.vertical="0"/>
+          <snap snap_id="2"
+                anchor.horizontal="1"
+                anchor.vertical="1"/>
         </marking>
         <type id="ID1412960622">
           <posattr x="459.500000"
@@ -772,7 +772,7 @@
                   type="Solid"/>
         <textattr colour="Black"
                   bold="false"/>
-        <text>Buffer Ent. M2</text>
+        <text>Buffer Saida M2</text>
         <ellipse w="166.000000"
                  h="60.000000"/>
         <token x="-47.000000"
@@ -827,7 +827,7 @@
                   type="Solid"/>
         <textattr colour="Black"
                   bold="false"/>
-        <text>Buffer Ent. M2</text>
+        <text>Buffer Saida M3</text>
         <ellipse w="166.000000"
                  h="60.000000"/>
         <token x="-27.000000"
@@ -2738,9 +2738,9 @@
                  height="624">
         <sheets>
           <cpnsheet id="ID1412494005"
-                    panx="-253.019200"
-                    pany="-63.916800"
-                    zoom="0.409600"
+                    panx="-536.241875"
+                    pany="-28.613000"
+                    zoom="0.800000"
                     instance="ID1412492749">
             <zorder>
               <position value="0"/>
